@@ -1,4 +1,5 @@
 from django.shortcuts import render, get_object_or_404, redirect
+from django.shortcuts import render
 from .models import PartidoPolitico, Cargo, Ubicacion, Recinto, Junta, Candidato, Votante
 from .forms import PartidoForm, CargoForm, UbicacionForm, RecintoForm, JuntaForm, CandidatoForm, VotanteForm
 
