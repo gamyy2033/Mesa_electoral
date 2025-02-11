@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-d-m-l4tj+)!z)0#eysno$ck^-%bl7%yld$hwgn^49rh!u+n(!9
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['mesa-electoral.onrender.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['Mesa.onrender.com']
 
 
 # Application definition
